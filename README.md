@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formularios"> </p>
 
 <hr>
@@ -11,3 +12,6 @@
 ## Tecnologías utilizadas en el proyecto
 * HTML
 * CSS
+=======
+# bank-github.io
+>>>>>>> 8e55fc4e781693a915f638be6a769ba657580f6d
