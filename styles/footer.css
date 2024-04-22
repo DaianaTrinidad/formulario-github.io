@@ -1,4 +1,5 @@
 .pie_pagina {
+    width:100%;
     display: flex;
     justify-content: space-around;
     background-color: var(--black);

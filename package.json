@@ -1,0 +1,20 @@
+{
+  "name": "formulario-github.io",
+  "version": "1.0.0",
+  "description": "Formulario",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev",
+    "run": "npm start "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaianaTrinidad/formulario-github.io.git"
+  },
+  "author": "Daiana Trinidad Puig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaianaTrinidad/formulario-github.io/issues"
+  },
+  "homepage": "https://github.com/DaianaTrinidad/formulario-github.io#readme"
+}
