@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formularios"> </p>
+
+![bak](https://github.com/0623CIFSNCN05LAED/grupo-11/assets/139799911/cc6c446b-fdcf-4c0e-bd14-9cf63e3be078)
 
 <hr>
 
@@ -13,5 +14,4 @@
 * HTML
 * CSS
 =======
-# bank-github.io
->>>>>>> 8e55fc4e781693a915f638be6a769ba657580f6d
+
