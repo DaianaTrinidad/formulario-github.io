@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+## Validación de Formularios creado junto al Programa ONE de Alura Latam y Oracle.
 
 ![bak](https://github.com/0623CIFSNCN05LAED/grupo-11/assets/139799911/cc6c446b-fdcf-4c0e-bd14-9cf63e3be078)
 
@@ -13,5 +13,5 @@
 ## Tecnologías utilizadas en el proyecto
 * HTML
 * CSS
-=======
+
 
